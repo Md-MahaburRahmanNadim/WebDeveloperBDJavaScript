@@ -1,0 +1,1 @@
+In function statment we can call the function before the function decleration. But in fucntion expression we can't do this.
